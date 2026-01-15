@@ -1,4 +1,8 @@
-### Hi, I'm Tun Tun Aung 👋
+# 👋 Hi, I’m Tun Aung
+🌍 Software Localization Engineer | Technical Writer & Translator English ⇄ Burmese (Myanmar) Open-Source Contributor
+💻 Remote-ready
+
+
 
 <!--
 **tuntunaung/tuntunaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
