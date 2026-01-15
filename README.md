@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Tun Aung
-🌍 Software Localization Engineer
-📝 Technical Writer & Translator (English ⇄ Burmese / Myanmar)
-🤝 Open-Source Contributor
-💻 Remote-ready
+
+🌍 Software Localization Engineer ␠␠
+📝 Technical Writer & Translator (English ⇄ Burmese / Myanmar) ␠␠
+🤝 Open-Source Contributor ␠␠
+💻 Remote-ready ␠␠
+
 
 
 
