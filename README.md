@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 # 👋 Hi, I’m Tun Aung
 
 🌍 Software Localization Engineer <br>
