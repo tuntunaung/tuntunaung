@@ -1,6 +1,8 @@
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuntunaung/)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/tuntunaung)
+
 
 
 # 👋 Hi, I’m Tun Aung
