@@ -1,7 +1,7 @@
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuntunaung/)<br>
-[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/tuntunaung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tuntunaung/)<br>
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/tuntunaung?style=social)](https://x.com/tuntunaung)
 
 
 
