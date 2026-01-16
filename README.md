@@ -1,5 +1,6 @@
 ### 🌐 Connect with Me
 
+[![GitHub followers](https://img.shields.io/github/followers/tuntunaung?style=social)](https://github.com/tuntunaung)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tuntunaung/)<br>
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/tuntunaung?style=social)](https://x.com/tuntunaung)
 
