@@ -1,8 +1,7 @@
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+
 
 # 👋 Hi, I’m Tun Aung
 
